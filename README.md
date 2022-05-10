@@ -12,7 +12,4 @@
   <img  align="center"  height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  </div>  
   
-  <br>
-  <div>
-    ![Snake animation](http://github.com/Rico8902/Rico8902/blob/output/github-contribution-grid-snake.svg)
-  </div>  
+  
